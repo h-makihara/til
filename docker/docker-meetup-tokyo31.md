@@ -1,4 +1,5 @@
 # docker meetup tokyo #31
+https://speakerdeck.com/makocchi/kubecon-cncon-ossummit-china-2019-recap
 ## KubeCon CN報告
 ### https://cloudnativedays.jp/cndt2019/
 - 20%off coupon  
@@ -18,6 +19,8 @@ HELLだったみたい
 12のFactorsと7のMissing factors
 
 ## 雰囲気でコンテナ使っているすべての人が読んで試すべきテキスト「コンテナ技術入門」の紹介」
+https://speakerdeck.com/hamadakoji/fen-wei-qi-dekontenashi-tuteiru-quan-tefalseren-gadu-mubeki-kontenaji-shu-ru-men-falseshao-jie  
+https://dev.classmethod.jp/tool/docker/container-basics/
 ### コンテナ技術入門
 この記事すごくいいらしい
 - 書かれていること  
@@ -78,6 +81,7 @@ NonPreenptingPriority
 
 
 ## WEB上で楽しむdocker
-DockerはGoで実装されてる
+DockerはGoで実装されてる  
+https://speakerdeck.com/po3rin/play-dockerfile-on-web
 
 dockerdot とてもおもしろそう
