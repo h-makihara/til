@@ -1,6 +1,6 @@
 # Dockerfile に近い感じ
-Vagrantfile を作成する
-Vagrant up すると、boxFileを取得してきて起動する
+Vagrantfile を作成する  
+Vagrant up すると、boxFileを取得してきて起動する  
 ※ もちろんVirtualboxはある前提
 
 Vagrantfileを手で書くのが面倒な人は
