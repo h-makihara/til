@@ -47,7 +47,7 @@ S3と併用したりする
 ### Amazon RDS
 一番ベーシック  
 SQLサーバやOracleサーバなど  
-AWSでDB使うとなるとこれを候補に上がる  
+AWSでDB使うとなるとこれがまず候補に上がる  
 
 ### Amazon DynamoDB
 NoSQLで使い勝手がいい処理を使いたい  
