@@ -9,3 +9,9 @@ ng serve --host $hostname
 ```
 ng serve --port $port
 ```
+
+# 外部からアクセスした際に ’Invalid Host Header’ と表示された時
+```
+ng serve --host $hostname --port $port --disable-host-check
+```
+これで幸せになれる
