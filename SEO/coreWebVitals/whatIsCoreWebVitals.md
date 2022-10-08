@@ -9,6 +9,17 @@
 読み込みパフォーマンスを評価する  
 **2.5秒以内にする必要がある**
 
+以下に記載する過去の指標の変化の末、現在の評価指標が提唱されている。  
+
+### その他の指標
+古い指標としては以下に述べるものがある
+- load
+- DOMContentLoaded
+- FCP(First Contentful Paint)
+- SI（Speed Index）
+
+
+
 ## FID(First Input Delay)
 初回入力までの遅延時間  
 インタラクティブ性[^1]を評価する  
@@ -16,3 +27,5 @@
 [^1]: 情報の送り手と受け取り手との関係が固定的でなく、その場でやり取りできる状態
 
 ## CLS(Cumulative Layout Shift)
+
+
