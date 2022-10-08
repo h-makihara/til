@@ -53,7 +53,7 @@ Lighthouse6.0で非推奨になった項目
 スコアの測定方法としては、[読み込みを開始してから、ページをスクロールせずに見える主要なコンテンツをレンダリングするまでの時間（秒単位）](https://docs.google.com/document/d/1BR94tJdZLsin5poeet0XoTW60M0SjvOJQttKT-JK8HI/view)  
 iframe内にスクロールせずに見えるコンテンツがある場合などに異なる場合がある。  
 FMPはiframe内のコンテンツがユーザに表示されると評価されるが、FCPにはiframeコンテンツを含まない。ここがFCPとFMPの違いになる。  
-### SI（Speed Index）  
+### [SI（Speed Index）](https://web.dev/speed-index/)  
 Lighthouseレポートの「パフォーマンス」セクションで追跡される6つの指標のひとつ。  
 ページの読み込み中にコンテンツが視覚的に表示される速さを測定する。  
 Lighthouseでは、最初にブラウザでページをロードするビデオをキャプチャし、フレーム感の視覚的な進行を計測する。  
